@@ -1,0 +1,4 @@
+name:s.Anusha
+suc:2358250081
+course:Bca
+college:Aditya degree college kakinada
